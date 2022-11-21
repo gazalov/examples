@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1013\Example006_Magic\bin\Debug\net7.0\Example006_Magic.exe
+C:\My_files\git\lesson_1013\Example006_Magic\bin\Debug\net7.0\Example006_Magic.deps.json
+C:\My_files\git\lesson_1013\Example006_Magic\bin\Debug\net7.0\Example006_Magic.runtimeconfig.json
+C:\My_files\git\lesson_1013\Example006_Magic\bin\Debug\net7.0\Example006_Magic.dll
+C:\My_files\git\lesson_1013\Example006_Magic\bin\Debug\net7.0\Example006_Magic.pdb
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\Example006_Magic.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\Example006_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\Example006_Magic.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\Example006_Magic.AssemblyInfo.cs
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\Example006_Magic.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\Example006_Magic.dll
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\refint\Example006_Magic.dll
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\Example006_Magic.pdb
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\Example006_Magic.genruntimeconfig.cache
+C:\My_files\git\lesson_1013\Example006_Magic\obj\Debug\net7.0\ref\Example006_Magic.dll
