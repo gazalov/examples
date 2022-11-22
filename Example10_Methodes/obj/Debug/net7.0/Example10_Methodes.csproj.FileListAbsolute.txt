@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\Example10_Methodes.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\Example10_Methodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\Example10_Methodes.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\Example10_Methodes.AssemblyInfo.cs
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\Example10_Methodes.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1013\Example10_Methodes\bin\Debug\net7.0\Example10_Methodes.exe
+C:\My_files\git\lesson_1013\Example10_Methodes\bin\Debug\net7.0\Example10_Methodes.deps.json
+C:\My_files\git\lesson_1013\Example10_Methodes\bin\Debug\net7.0\Example10_Methodes.runtimeconfig.json
+C:\My_files\git\lesson_1013\Example10_Methodes\bin\Debug\net7.0\Example10_Methodes.dll
+C:\My_files\git\lesson_1013\Example10_Methodes\bin\Debug\net7.0\Example10_Methodes.pdb
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\Example10_Methodes.dll
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\refint\Example10_Methodes.dll
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\Example10_Methodes.pdb
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\Example10_Methodes.genruntimeconfig.cache
+C:\My_files\git\lesson_1013\Example10_Methodes\obj\Debug\net7.0\ref\Example10_Methodes.dll

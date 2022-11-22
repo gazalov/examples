@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\Example11_ArrayMethod.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\Example11_ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\Example11_ArrayMethod.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\Example11_ArrayMethod.AssemblyInfo.cs
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\Example11_ArrayMethod.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\bin\Debug\net7.0\Example11_ArrayMethod.exe
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\bin\Debug\net7.0\Example11_ArrayMethod.deps.json
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\bin\Debug\net7.0\Example11_ArrayMethod.runtimeconfig.json
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\bin\Debug\net7.0\Example11_ArrayMethod.dll
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\bin\Debug\net7.0\Example11_ArrayMethod.pdb
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\Example11_ArrayMethod.dll
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\refint\Example11_ArrayMethod.dll
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\Example11_ArrayMethod.pdb
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\Example11_ArrayMethod.genruntimeconfig.cache
+C:\My_files\git\lesson_1013\Example11_ArrayMethod\obj\Debug\net7.0\ref\Example11_ArrayMethod.dll
