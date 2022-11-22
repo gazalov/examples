@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\Example007.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\Example007.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\Example007.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\Example007.AssemblyInfo.cs
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\Example007.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1013\Example007\bin\Debug\net7.0\Example007.exe
+C:\My_files\git\lesson_1013\Example007\bin\Debug\net7.0\Example007.deps.json
+C:\My_files\git\lesson_1013\Example007\bin\Debug\net7.0\Example007.runtimeconfig.json
+C:\My_files\git\lesson_1013\Example007\bin\Debug\net7.0\Example007.dll
+C:\My_files\git\lesson_1013\Example007\bin\Debug\net7.0\Example007.pdb
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\Example007.dll
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\refint\Example007.dll
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\Example007.pdb
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\Example007.genruntimeconfig.cache
+C:\My_files\git\lesson_1013\Example007\obj\Debug\net7.0\ref\Example007.dll
